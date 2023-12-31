@@ -11,7 +11,7 @@ function App() {
       setList(listCards)
       setStateButton(id)
     }else if(id===2){
-      const cardsFilter = listCards.filter(coffe =>coffe.soldOut===false)
+      const cardsFilter = listCards.filter(coffe =>coffe.soldOut===true)
       setList(cardsFilter)
       setStateButton(id)
     }
