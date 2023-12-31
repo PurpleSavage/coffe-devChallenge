@@ -11,7 +11,7 @@ export const listCards:cardCoffeObject[] =[
       price:5.20
     },
     {
-      url:'.https://firebasestorage.googleapis.com/v0/b/coffe-devchallenge.appspot.com/o/house-coffe.jpg?alt=media&token=21fa3030-5a63-4a77-8027-2330b737592e',
+      url:'https://firebasestorage.googleapis.com/v0/b/coffe-devchallenge.appspot.com/o/house-coffe.jpg?alt=media&token=21fa3030-5a63-4a77-8027-2330b737592e',
       name:"House Coffe",
       votos:14,
       stars:4.85,
